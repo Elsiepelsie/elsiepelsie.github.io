@@ -1,10 +1,10 @@
 # Site settings
-name: name
-email: email
-url: url
+name: Elsie
+email: Elisehanchenhoste@gmail.com
+url: https://elsiepelsie.github.io/
 description: "A blog and a portfolio"
 author: "author"
-title: "BlogFolio"
+title: "Elsiepelsie"
 permalink: pretty
 baseurl: ""
 
@@ -13,4 +13,4 @@ github:
   username: username
 
 twitter:
-  username: username
+  username: goompy
