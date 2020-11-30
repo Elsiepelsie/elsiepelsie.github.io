@@ -16,6 +16,7 @@ body {
 
 .card-image > figure img {
   width: auto!important;
+  left: 25%!important;
 }
 
 .page-footer {
