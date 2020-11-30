@@ -14,6 +14,10 @@ body {
   font-family: "Crimson Text", "Georgia", serif;
 }
 
+.card-image > figure img {
+  width: auto!important;
+}
+
 .page-footer {
   position: absolute;
   bottom: 0;
