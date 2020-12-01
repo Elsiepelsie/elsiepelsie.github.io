@@ -4,7 +4,7 @@ title: "A blogfolio type of thing"
 date: 2017-06-09 12:00:00 -0500
 ---
 
-Hey, it's just my first post!
+A brief introduction
 
 From [http://slipsum.com/lite/](http://slipsum.com/lite/):
 
