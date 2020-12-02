@@ -30,5 +30,5 @@ I opted for the clean and simple [Blogfolio](https://github.com/lamccloskey/jeky
 
 ![blogfolio](/img/blogfolio.gif)
 
-[I'm a relative reference to a repository file](/2020/12/02/second-post/)
-
+[link](http://jekyllthemes.org/)
+[link](http://jekyllthemes.org/)
