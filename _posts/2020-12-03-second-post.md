@@ -8,12 +8,12 @@ topics: ["SOML", "test"
 
 *Why I decided to start building a website*
 
-A few days ago, I was nervously looking at my computer. My professor had mailed us the good news that we would know our grades by the end of the day. The assignment that I had worked on so hard would finally be revealed
+A few days ago, I was nervously looking at my computer. My professor had mailed us the good news that we would know our grades by the end of the day. I would finally know the result of my assignment that I had worked so hard for.
 
-After repeatedly refreshing ladok the mark appeared. My heart sank a little, but I hoped that frantically refreshing my screen would change my result. The letter didn't change, of course. It remained a big fat U. 
+After repeatedly refreshing ladok the mark appeared. My heart sank a little, but I hoped that by refreshing the website a few more times would change my result. The letter didn't change, of course. It remained a big fat U. 
 
 
-Within a moment I was in bed, curled in a foetal position. The first thing I did was call my boyfriend. He came over immediately. We did some brainstorming together. These were the results:
+Within a moment I was in bed, curled in a foetal position and contemplating my fate. The first thing I did was call my boyfriend. After he came over, we started to brainstorm together. These were the results:
 
 
 1. Living in a conversion van
