@@ -8,7 +8,7 @@ topics: ["test", "test"
 
 *A blogfolio?!*
 
-Welcome!
+Welcome.
 
 This blogfolio has various purposes. My posts aren't focused on one particular topic or thought. But I will attempt to organize everything in a way that makes sense. Topics will include cooking, reading, music and much more. I also hope to share my experience of being an online student @MAU. 
 
