@@ -1,18 +1,23 @@
 {
     "items": [{
         "name": "A historical and critical evaluation of &#8220;universalism&#8221; advanced by Emeric Cruce",
-        "link": "",
-        "image": "/img/Leo-Tolstoy.jpg",
+        "link": "/EmericCruce/",
+        "image": "/img/white.png",
         "date_added": "2020-11-30",
-        "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
-        "technologies": [
-            "Java", "Europe as a Field of Knowledge and Europe as an Idea", "Postgres", "JavaScript", "AngularJS"
+        "description": "An Essay<br><small><em>attribute - attribute link</em></small>",
+        "topics": [
+            "European Studies: Politics&#44; Societies&#44; Cultures", "Europe as a Field of Knowledge and Europe as an Idea", "Historical contexts&#44; terms and perspectives"
         ]
         },
         {
-
-        "name": "test"
-
+        "name": "test",
+        "link": "",
+        "image": "/img/white.png",
+        "date_added": "2020-11-30",
+        "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
+        "topics": [
+            "Java", "Europe as a Field of Knowledge and Europe as an Idea", "Postgres", "JavaScript", "AngularJS"
+        ]
         }
     ]
 }
