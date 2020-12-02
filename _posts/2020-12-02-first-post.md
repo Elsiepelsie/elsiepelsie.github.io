@@ -6,14 +6,12 @@ topics: ["test", "test"
         ]
 ---
 
-*Introducing the author & the blogfolio*
+*A blogfolio?!*
 
+Welcome!
 
+This blogfolio has various purposes. My posts aren't focused on one particular topic or thought. But I will attempt to organize everything in a way that makes sense. Topics will include cooking, reading, music and much more. I also hope to share my experience of being an online student @MAU. 
 
-This blogfolio has various purposes. 
+My portfolio will be filled with projects that I'm working on or have finished. Anything that doesn't fit in this category will be found in blog entries. Those are mainly related to my everyday life.
 
-In other words, my posts aren't focused on one particular topic or thought. But I attempted to organize everything in a way that makes sense. Topics include cooking, reading, music and much more. I also share my experience of being an online student @MAU. 
-
-My portfolio is filled with projects that I'm working on or have finished. Anything that doesn't fit in this category will be found in blog entries. Those are mainly related to my everyday life.
-
-This idea followed a brief existential crisis. 
+This idea followed a brief existential crisis.
