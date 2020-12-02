@@ -6,7 +6,8 @@ topics: ["test", "test"
         ]
 ---
 
-*A brief introduction*
+*Introducing the author & the blogfolio*
+
 
 
 This blogfolio has various purposes. 
@@ -15,7 +16,4 @@ In other words, my posts aren't focused on one particular topic or thought. But 
 
 My portfolio is filled with projects that I'm working on or have finished. Anything that doesn't fit in this category will be found in blog entries. Those are mainly related to my everyday life.
 
-
-*Organization*
-
-Under construction...
+This idea followed a brief existential crisis. 
