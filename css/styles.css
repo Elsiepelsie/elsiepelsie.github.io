@@ -33,7 +33,7 @@ body {
 }
 
 .is-rounded {
-  border-radius: 50%;
+  border-radius: 3%;
 }
 
 .hero.is-primary {
