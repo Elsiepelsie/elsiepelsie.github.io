@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A blogfolio type of thing"
+title: "Welcome"
 date: 2017-06-09 12:00:00 -0500
 ---
 

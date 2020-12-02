@@ -1,11 +1,11 @@
-I"Î<section class="hero is-primary is-small">
+I"Ñ<section class="hero is-primary is-small">
     <div class="hero-body">
         <div class="container has-text-centered">
             <p class="title is-1">
                 Elsiepelsie
             </p>
             <p class="subtitle is-4">
-                <em>test</em>
+                <em>A blogfolio type of thing</em>
             </p>
         </div>
     </div>
@@ -21,7 +21,7 @@
                         <div class="media-content">
                             <div class="content">
                                 <a href="/2017/06/09/first-post/">
-                                    <p class="title is-2">A blogfolio type of thing <span class="tag is-white is-pulled-right"><small>June 09, 2017</small></span></p>
+                                    <p class="title is-2">Welcome <span class="tag is-white is-pulled-right"><small>June 09, 2017</small></span></p>
                                     <p class="subtitle"><small>A brief introduction
 </small></p>
                                 </a>
