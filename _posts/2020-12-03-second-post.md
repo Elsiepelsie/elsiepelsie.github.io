@@ -22,14 +22,14 @@ Within a moment I was in bed, curled in a foetal position and contemplating my f
 
 Those were all too expensive. And it wouldn't help to improve my current state of mind. 
 
-Around that time my boyfriend was very much engaged with his own project. He was designing a [website](https://mr-volta.github.io/) for a friend. I had already tried to understand HTML a few times, but my motivation lacked. Starting from scratch wasn't something that I wanted to do either. 
+Around that time my boyfriend was very much engaged with his own project. He was designing a [website](https://mr-volta.github.io/){:target="_blank"} for a friend. I had already tried to understand HTML a few times, but my motivation lacked. Starting from scratch wasn't something that I wanted to do either. 
 
 But somehow it inspired me this time. 
 
-Thanks to my boyfriend I discovered a [website](http://jekyllthemes.org/) offering themes that I could start out with. This gave me the chance to learn a few things while working on my own website.
+Thanks to my boyfriend I discovered a [website](http://jekyllthemes.org/){:target="_blank"} offering themes that I could start out with. This gave me the chance to learn a few things while working on my own website.
 
-I opted for the clean and simple [Blogfolio](https://github.com/lamccloskey/jekyll-theme-blogfolio). It fit my requirments for what I wanted to work with.
+I opted for the clean and simple [Blogfolio](https://github.com/lamccloskey/jekyll-theme-blogfolio){:target="_blank"}. It fit my requirments for what I wanted to work with.
 
 ![blogfolio](/img/blogfolio.gif)
 
-By doing this, I've managed to procrastinate quite well on developping my assignment. And I plan on doing so, until I really can't ignore the [panic monster](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) anymore.
+By doing this, I've managed to procrastinate quite well on developping my assignment. And I plan on doing so, until I really can't ignore the [panic monster](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html){:target="_blank"} anymore.
