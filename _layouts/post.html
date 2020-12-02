@@ -10,10 +10,13 @@ layout: default
         </div>
         <br>
         <div class="columns is-multiline">
-
             <div class="column is-half is-offset-one-quarter">
                 <div class="content">
                     {{content}}
+            {% for each in page.topics %}
+            <span class="tag is-primary is-medium">
+              {{each}}
+            </span>{% endfor %}
                 </div>
             </div>
         </div>
