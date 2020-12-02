@@ -1,10 +1,10 @@
 {
     "items": [{
-        "name": "A historical and critical evaluation of &#8220;universalism&#8221; advanced by Emeric Cruce",
-        "link": "/EmericCruce/",
+        "name": "abc",
+        "link": "/abc/",
         "image": "/img/world.jpg",
         "date_added": "2020-11-30",
-        "description": "An Essay<br><small><em>attribute - attribute link</em></small>",
+        "description": "Lore ipsum<br><small><em>attribute - attribute link</em></small>",
         "topics": [
             "University"
         ]

@@ -12,4 +12,5 @@
             .classList
             .toggle('is-active');
     }
+    
 })();
