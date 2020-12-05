@@ -5,5 +5,5 @@ permalink: index.html
 ---
 
 {% include header.html %}
-{% include blogs.html %}
+{% include blog_home.html %}
 

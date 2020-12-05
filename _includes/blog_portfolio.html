@@ -1,0 +1,33 @@
+<div class="columns is-multiline">
+
+                {% for post in site.posts %}
+  {% if post.categories contains 'blog_portfolio' %}
+    <div class="column is-one-third is-offset-one-third">
+        <div class="card">
+            <div class="card-image">
+                <figure class="image is-3by2">
+                    <img src="{{post.image}}" alt="Image">
+                </figure>
+            </div>
+            <div class="card-content">
+                <div class="media">
+                    <div class="media-content">
+                        <p class="title is-4">{{post.title}}</p>
+                        <p class="subtitle is-6"><small>{{post.date | date: '%d-%m-%Y'}}</small></p>
+                    </div>
+                </div>
+                <div class="content">
+                    <p>{{post.description}}</p>
+                    {% for each in post.topics %}
+                    <span class="tag is-primary">{{each}}</span> {% endfor %}
+                </div>
+                <footer class="card-footer">
+                    <a class="card-footer-item" href="{{ post.url | relative_url }}" target="_blank"><span>Check it out</span></a>
+                </footer>
+            </div>
+        </div>
+    </div>
+  {% endif %}
+                {% endfor %}
+
+</div>

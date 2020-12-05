@@ -1,0 +1,32 @@
+I"†<section class="hero is-primary is-small">
+    <div class="hero-body">
+        <div class="container has-text-centered">
+            <p class="title is-1">
+                Elsiepelsie
+            </p>
+            <p class="subtitle is-4">
+                <em>A blogfolio type of thing</em>
+            </p>
+        </div>
+    </div>
+</section>
+<section class="section">
+    <div class="container">
+        <div class="columns">
+            <div class="column is-half is-offset-one-quarter">
+
+                
+  
+                
+  
+                
+  
+                
+  
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+:ET
