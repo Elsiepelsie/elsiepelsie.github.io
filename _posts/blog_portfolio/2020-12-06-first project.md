@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Title of my blog portfolio post"
+title: "Piano"
 date: 2020-12-05
 category: blog_portfolio
-description: Description of my blog_portfolio post
+description: This is a description
 image: /img/piano.jpg
 topics: ["Piano"]
 ---
 
-Main text of my blog_portfolio post
+This is my main text.
