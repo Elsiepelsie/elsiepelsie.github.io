@@ -17,7 +17,7 @@ I was obsessed with him. I bought cat training books, secretly gave him milk, ev
 
 He also kept some of my psychological shenanigans in check. I wouldn't be as scared to be home alone. The people in my garden were almost transparent. I would even dare to go for a midnight snack every now and then since the little girl had mysteriously dissappeared. Now that he's gone, everything I came back slowly. Most noticeably in my own house but also whenever I'm alone after sunset. Walking alone down my street scares me to death. I can't get over the idea of finding a corpse in between the little frontyards. At my boyfriend's someone with wide bloodred eyes keeps staring at me while I'm doing the laundry or cooking. Someone always looks at me when I walk up the stairs. Every place perturbs me in its own way.
 
-In the light of these mental issues I have felt the urgent need to leave Belgium. Currently I'm stuck in a limbo. Everything is about to change but nothing has been decided. The existential dread has sadly not passed either. 
+Because of these mental issues I have felt the urgent need to leave Belgium. Currently I'm stuck in a limbo. Everything is about to change but nothing has been decided.
 
-This leaves me in an extended existential crisis, that will only end once I know who I am and what I want to do with my life.
+This leaves me in an extended existential crisis that will end only once I know who I am and what I want to do.
 
