@@ -1,3 +1,7 @@
+.tag.is-primary {
+  background-color: #ff9896!important;
+}
+
 .footer {
   background-color: whitesmoke;
   padding: 3rem 1.5rem 6rem;
