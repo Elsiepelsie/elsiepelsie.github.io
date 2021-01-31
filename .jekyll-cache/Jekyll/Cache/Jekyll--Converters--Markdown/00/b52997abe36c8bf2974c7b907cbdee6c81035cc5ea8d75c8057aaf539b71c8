@@ -1,5 +1,4 @@
-I"¨
-<section class="hero is-primary is-small">
+I"j<section class="hero is-primary is-small">
     <div class="hero-body">
         <div class="container has-text-centered">
             <p class="title is-1">
@@ -16,6 +15,22 @@
         <div class="columns">
             <div class="column is-half is-offset-one-quarter">
 
+                
+  
+                <div class="box">
+                    <article class="media">
+                        <div class="media-content">
+                            <div class="content">
+                                <a href="/blog_home/2020/12/06/fourth-post/">
+                                    <p class="title is-2">this is a title <span class="tag is-white is-pulled-right"><small>December 06, 2020</small></span></p>
+                                    <p class="subtitle"><small><em>this is a description</em>
+</small></p>
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+  
                 
   
                 <div class="box">

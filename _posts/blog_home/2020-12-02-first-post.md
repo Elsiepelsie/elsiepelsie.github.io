@@ -7,12 +7,8 @@ category: blog_home
 
 *A blogfolio?!*
 
-Welcome to Elsiepelsie!
+Welcome to Elsiepelsie, some type of blogfolio. (A blog & portfolio!)
 
-This blogfolio will have various purposes.
+In my blog I will write about some everyday projects that require minimal effort to research. This will include recipes, things you can get for free or cheap, reviews ranging from songs to pens and much more.
 
- This means that my posts won't be focused on one particular topic or thought. But I will attempt to organize everything in a way that makes sense. Topics or questions will include cooking, reading, games and much more. 
-
-My portfolio will be filled with specific topic-oriented projects that I'm working on or have finished. Anything that doesn't fit in this category will be found in blog entries. Those are mainly related to my everyday life.
-
-The development of this website followed a brief existential crisis.
+My portfolio will have projects that take longer to finalize.I will attempt to answer interesting questions or specific topics. 
